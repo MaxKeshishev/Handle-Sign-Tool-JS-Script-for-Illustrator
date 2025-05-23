@@ -5,8 +5,8 @@ I am a font designer and for the presentation of letters I often need to show ho
 How to work with the script:
 
 1. Place the script file in Adobe\Adobe Illustrator 2023\Presets\en_GB\Scripts
-2. Select the rectangles in the Illustrator file
-2. Click File -> Scripts -> Anchors
+2. Select the shapes in the Illustrator file
+3. Click File -> Scripts -> Anchors
 
 You can improve:
 
